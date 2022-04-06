@@ -17,7 +17,7 @@
 ### Other Platforms : <br>
 [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/Aakash__)&nbsp;&nbsp;&nbsp;[<img alt="alt_text" width="38px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" />](https://www.codechef.com/users/aakash265)
 
-# My Tech Stack :
+### My Tech Stack :
 - C/C++
 - Python
 - HTML
