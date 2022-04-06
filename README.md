@@ -4,7 +4,9 @@
 
 ## A passionate Frontend developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
 
+<br>
 <img align="right" alt="alt_text" width="500px" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/10/Offshore-app-developer-1024x512.png" />
+<br>
 
 - 🔭 My core domain is <b>Web Development</b>.
 - 🌱 I’m currently learning <b>PHP</b>, <b>MySQL</b> and <b>ReactJS</b>.
