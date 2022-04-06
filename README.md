@@ -1,9 +1,9 @@
-# Hi there 👋 I'm Aakash...
+<h1 align="center">Hi there 👋, I'm Aakash...</h1>
 
 <img align="center" alt="alt_text" src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVzayUyMHNldHVwfGVufDB8fDB8fA%3D%3D&w=1000&q=80" />
 
-## A passionate Frontend Developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
-
+<h2 align="center">A passionate Frontend Developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
+</h2>
 <img align="right" alt="alt_text" width="500px" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/10/Offshore-app-developer-1024x512.png" />
 <br>
 
