@@ -4,7 +4,7 @@
 
 ## A passionate Frontend developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
 
-- 🔭 I’m currently working on Web Development.
+- 🔭 I’m currently working on <b>Web Development</b>.
 - 🌱 I’m currently learning PHP and ReactJS
 - 🤔 I’m looking for help with Data Structures🙄.
 - 💬 Ask me about anything you like.
