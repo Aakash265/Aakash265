@@ -6,8 +6,9 @@
 
 ## A passionate Frontend developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
 
-- 🔭 I’m currently working on <b>Web Development</b>.
+- 🔭 I’m currently involved in <b>Web Development</b>.
 - 🌱 I’m currently learning <b>PHP</b> and <b>ReactJS</b>.
+- 💻 I'm currently working on my <b>Portfolio website</b>.
 - 🤔 I’m looking for help with <b>Data Structures</b>🙄.
 - 💬 Ask me about anything you like.
 - 📫 How to reach me: <b>aksverma26@gmail.com</b> <br>
