@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Aakash...
+### A passionate Frontend developer from India and handling my journey of becoming a Full Stack Web Developer.
 
 - 🔭 I’m currently working on Web Development.
 - 🌱 I’m currently learning PHP and ReactJS
