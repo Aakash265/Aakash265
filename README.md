@@ -21,15 +21,19 @@
 [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/480px-HackerRank_Icon-1000px.png" />](https://www.hackerrank.com/Aakash__)&nbsp;&nbsp;&nbsp;[<img alt="alt_text" width="38px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/zruiknbedz8yqafxbazb" />](https://www.codechef.com/users/aakash265)
 
 ### My Tech Stack :
-- C/C++
-- Python
-- HTML
-- CSS
-- JavaScript
-- AngularJS, NodeJS, ExpressJS
-- Bootstrap
-- Django
-- PHP
+<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://i0.wp.com/copyassignment.com/wp-content/uploads/2021/08/Django-logo.jpg?fit=474%2C474&ssl=1" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://brandpalettes.com/wp-content/uploads/2021/06/php-color-codes.svg" />&nbsp;&nbsp;&nbsp;
+
+
 <hr>
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 😄 Pronouns: -->
