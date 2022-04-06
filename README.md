@@ -25,6 +25,7 @@
 - CSS
 - JavaScript
 - AngularJS, NodeJS, ExpressJS
+- Bootstrap
 - Django
 - PHP
 <hr>
