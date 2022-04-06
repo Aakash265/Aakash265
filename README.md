@@ -2,12 +2,12 @@
 
 <img align="center" alt="alt_text" src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVzayUyMHNldHVwfGVufDB8fDB8fA%3D%3D&w=1000&q=80" />
 
-## A passionate Frontend developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
+## A passionate Frontend Developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
 
-<br>
 <img align="right" alt="alt_text" width="500px" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/10/Offshore-app-developer-1024x512.png" />
 <br>
 
+- 🏫 Pursuing <b>B.Tech</b> in <b>Computer Science and Engineering</b> from <b>Lovely Professional University</b>.
 - 🔭 My core domain is <b>Web Development</b>.
 - 🌱 I’m currently learning <b>PHP</b>, <b>MySQL</b> and <b>ReactJS</b>.
 - 💻 I'm currently working on my <b>Portfolio website</b>.
