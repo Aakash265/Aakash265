@@ -10,7 +10,7 @@
 
 - 🏫 Pursuing <b>B.Tech</b> in <b>Computer Science and Engineering</b> from <b>Lovely Professional University</b>.
 - 🔭 My core domain is <b>Web Development</b>.
-- 🌱 I’m currently learning <b>Laravel</b> and <b>ReactJS</b>.
+- 🌱 I’m currently learning <!-- <b>Laravel</b> and --> <b>ReactJS</b>.
 - 💻 I'm currently working on my <b>Portfolio website</b>.
 - 🤔 I’m looking for help with <b>Data Structures</b>🙄.
 - 💬 Ask me about anything you like.
