@@ -5,7 +5,7 @@
 
 <h2 align="center">A passionate Frontend Developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
 </h2>
-<img align="right" alt="alt_text" width="500px" src="https://www.mindinventory.com/blog/wp-content/uploads/2019/10/Offshore-app-developer-1024x512.png" />
+<img align="right" alt="alt_text" width="500px" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" />
 <br>
 
 - 🏫 Pursuing <b>B.Tech</b> in <b>Computer Science and Engineering</b> from <b>Lovely Professional University</b>.
