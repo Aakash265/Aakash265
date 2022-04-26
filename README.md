@@ -36,7 +36,8 @@
 <img alt="alt_text" width="40px" src="https://www.netgains.org/wp-content/uploads/2014/01/node_js.png" />&nbsp;&nbsp;&nbsp;
 <img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" />&nbsp;&nbsp;&nbsp;
 <img alt="alt_text" width="40px" src="https://i0.wp.com/copyassignment.com/wp-content/uploads/2021/08/Django-logo.jpg?fit=474%2C474&ssl=1" />&nbsp;&nbsp;&nbsp;
-<img alt="alt_text" width="40px" src="https://brandpalettes.com/wp-content/uploads/2021/06/php-color-codes.svg" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="40px" src="https://brandpalettes.com/wp-content/uploads/2021/06/php-color-codes.svg" />&nbsp;
+<img alt="alt_text" width="60px" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" />&nbsp;&nbsp;&nbsp;
 
 
 <hr>
