@@ -5,7 +5,7 @@
 
 <h2 align="center">A passionate Frontend Developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
 </h2>
-<img align="right" alt="alt_text" width="200px" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" />
+<img align="right" alt="alt_text" width="150px" src="https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif" />
 <br>
 
 - 🏫 Pursuing <b>B.Tech</b> in <b>Computer Science and Engineering</b> from <b>Lovely Professional University</b>.
