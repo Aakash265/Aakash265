@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Aakash...</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img align="center" alt="alt_text" width="75%" src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVzayUyMHNldHVwfGVufDB8fDB8fA%3D%3D&w=1000&q=80" />
+<img align="center" alt="alt_text" width="80%" src="https://images.unsplash.com/photo-1614624532983-4ce03382d63d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8ZGVzayUyMHNldHVwfGVufDB8fDB8fA%3D%3D&w=1000&q=80" />
 
 <h2 align="center">A passionate Frontend Developer👨‍💻 from India who has been handling his journey🗺 of becoming a Full Stack Web Developer🚩.
 </h2>
