@@ -12,8 +12,8 @@
 - 🔭 My core domain is <b>Web Development</b>.
 - 🌱 I’m currently learning <!-- <b>Laravel</b> and --> <b>Data Structures and Algorithms</b>.
 - 💻 I'm currently working on my <b>DSA skills</b>.
-- 🤔 I’m looking for help with <b>JAVA Full Stack Development</b>🙄.
-- 👨🏻‍🎓 I want to become a <b>Full Stack Web Developer</b>😎.
+- 🤔 I’m looking for help with <b>JAVA Full Stack Development</b>.
+- 👨🏻‍🎓 I want to become a <b>Full Stack Web Developer</b>.
 - 💬 Ask me about anything you like.
 - 📫 How to reach me: <b>aksverma26@gmail.com</b> <br>
 
