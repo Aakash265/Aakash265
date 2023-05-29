@@ -30,7 +30,7 @@
 <img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" />&nbsp;&nbsp;&nbsp;
 <img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />&nbsp;&nbsp;&nbsp;
 <img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />&nbsp;&nbsp;&nbsp;
-<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" />&nbsp;&nbsp;&nbsp;
+<img alt="alt_text" width="35px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png" />&nbsp;&nbsp;&nbsp;
 <img alt="alt_text" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" />&nbsp;&nbsp;&nbsp;
 <img alt="alt_text" width="40px" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" />&nbsp;&nbsp;&nbsp;
 <img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" />&nbsp;&nbsp;&nbsp;
