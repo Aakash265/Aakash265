@@ -16,7 +16,7 @@
 - 👨🏻‍🎓 I want to become a <b>Full Stack Web Developer</b>.
 - 💬 Ask me about anything you like.
 - 📫 How to reach me: <b>aksverma26@gmail.com</b> <br>
-- 📄 Click <a href="aakash265.github.io/Portfolio">here </a> to visit my page.
+- 📄 Click <a href="https://aakash265.github.io/Portfolio">here </a> to visit my page.
 
 #### Upcoming Uploads :
 - 📄 My updated Portfolio website
