@@ -16,9 +16,10 @@
 - 👨🏻‍🎓 I want to become a <b>Full Stack Web Developer</b>.
 - 💬 Ask me about anything you like.
 - 📫 How to reach me: <b>aksverma26@gmail.com</b> <br>
+- 📄 Click <a href="aakash265.github.io/Portfolio">here </a> to visit my page.
 
 #### Upcoming Uploads :
-- 📄 Leetcode Questions
+- 📄 My updated Portfolio website
 
 ### Connect with me : <br>
 [<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" />](https://www.linkedin.com/in/aakash26)&nbsp;&nbsp;&nbsp;[<img alt="alt_text" width="40px" src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202307/twitter-x_0-one_one.jpg?VersionId=qOPJmd905ROv7bd_V5.Z_RR33Lq1qW9V" />](https://twitter.com/aetherSky26)&nbsp;&nbsp;&nbsp;[<img alt="alt_text" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" />](https://instagram.com/_aether26_)
